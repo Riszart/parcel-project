@@ -6,4 +6,4 @@ const e=document.getElementById("app"),t=async()=>{let t=await fetch("https://ap
       </h2>
     </article>
   `).join(""),i=document.createElement("section");i.classList.add("Items"),i.innerHTML=s,e.appendChild(i)};t();
-//# sourceMappingURL=index.b04e1b80.js.map
+//# sourceMappingURL=index.d045ed78.js.map
